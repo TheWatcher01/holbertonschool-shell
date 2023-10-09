@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo .tmp
+chmod -R ugo+x
