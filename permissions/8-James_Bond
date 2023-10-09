@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod ug-rwx
-chmod a+rwx
+chmod 007 hello
